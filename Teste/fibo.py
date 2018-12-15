@@ -8,7 +8,3 @@ for seu_cu in range(1,10):
     a = b
     b = fibo
     print(fibo)
-
-
-
-
