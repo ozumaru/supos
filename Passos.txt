@@ -1,0 +1,7 @@
+1 - git status - para verificar os arquivos que foram modificados no projeto.
+
+2 - git add * - para adicionar os arquivos na arvore do projeto.
+
+3 - git commit -m "Mensagem" - para commitar a atualização do projeto.
+
+4 - git push origin master - para fazer o upload do commit na raiz do projeto
