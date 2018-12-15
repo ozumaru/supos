@@ -5,3 +5,13 @@
 3 - git commit -m "Mensagem" - para commitar a atualização do projeto.
 
 4 - git push origin master - para fazer o upload do commit na raiz do projeto
+
+------------------------------------
+ Branch - Ramo
+
+1 - git branch - para verificar os Branch(ramos) existentes no projeto
+
+2 - git branch <novo_branch> - para criar um novo branch
+
+3 - git checkout <nome_do_branch> - para selecionar o branch que vai subir a atualização
+
